@@ -1,0 +1,9 @@
+C:\Users\C1010\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\C1010\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\C1010\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\C1010\Desktop\Lab1\Lab1\bin\Debug\Lab1.xml
+C:\Users\C1010\Desktop\Lab1\Lab1\obj\Debug\Lab1.Resources.resources
+C:\Users\C1010\Desktop\Lab1\Lab1\obj\Debug\Lab1.vbproj.GenerateResource.Cache
+C:\Users\C1010\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\C1010\Desktop\Lab1\Lab1\obj\Debug\Lab1.xml
+C:\Users\C1010\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb

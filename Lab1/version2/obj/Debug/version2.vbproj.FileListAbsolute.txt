@@ -1,0 +1,9 @@
+C:\Users\C1010\Desktop\Lab1\version2\bin\Debug\version2.exe.config
+C:\Users\C1010\Desktop\Lab1\version2\obj\Debug\version2.Resources.resources
+C:\Users\C1010\Desktop\Lab1\version2\obj\Debug\version2.vbproj.GenerateResource.Cache
+C:\Users\C1010\Desktop\Lab1\version2\bin\Debug\version2.exe
+C:\Users\C1010\Desktop\Lab1\version2\bin\Debug\version2.pdb
+C:\Users\C1010\Desktop\Lab1\version2\bin\Debug\version2.xml
+C:\Users\C1010\Desktop\Lab1\version2\obj\Debug\version2.exe
+C:\Users\C1010\Desktop\Lab1\version2\obj\Debug\version2.xml
+C:\Users\C1010\Desktop\Lab1\version2\obj\Debug\version2.pdb
